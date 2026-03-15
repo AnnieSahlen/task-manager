@@ -6,11 +6,18 @@ A minimal task management app built with React and TypeScript. Part of a series 
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white&labelColor=20232A)
 ![MUI](https://img.shields.io/badge/MUI-6-007FFF?logo=mui&logoColor=white&labelColor=20232A)
 
+<!-- ![Task manager](src/assets/task-manager.png) -->
+
+<img src="src/assets/task-manager.png" width="400" />
+
+<img src="src/assets/tasks-completed1.png" width="300" />
+<img src="src/assets/filter-completed.png" width="300" />
+
 ## Features
 
 - Add and delete tasks
 - Mark tasks as completed
-- Filter tasks by status — All, Active, or Completed
+- Filter tasks by status - All, Active or Completed
 - Clear all completed tasks at once
 - Persistent state via localStorage
 
